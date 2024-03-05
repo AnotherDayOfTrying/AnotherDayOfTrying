@@ -53,17 +53,12 @@ Here are some ideas to get you started:
 [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=AnotherDayOfTrying&repo=AlarmMockUp&theme=radical)](https://github.com/AnotherDayOfTrying/AlarmMockUp)
 [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=AnotherDayOfTrying&repo=anotherdayoftrying.github.io&theme=radical)](https://github.com/AnotherDayOfTrying/anotherdayoftrying.github.io)
 
-<picture align="center">
-  <source align="center"
-    srcset="https://github-readme-stats.vercel.app/api/top-langs?username=AnotherDayOfTrying&show_icons=true&theme=radical&layout=donut"
-    media="(prefers-color-scheme: dark)"
-  />
-  <source align="center"
-    srcset="https://github-readme-stats.vercel.app/api/top-langs?username=AnotherDayOfTrying&show_icons=true&layout=donut"
-    media="(prefers-color-scheme: light), (prefers-color-scheme: no-preference)"
-  />
-  <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=AnotherDayOfTrying&show_icons=true&layout=donut" />
-</picture>
+<div align="center">
+<img
+  src="https://github-readme-stats.vercel.app/api/top-langs?username=AnotherDayOfTrying&show_icons=true&theme=radical&layout=donut"
+/>
+</div>
+
 
 ## 🔗 Links	🔗 
 
